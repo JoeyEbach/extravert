@@ -1,0 +1,14 @@
+/Users/joeyebach/workspace/ExtraVert/bin/Debug/net8.0/ExtraVert
+/Users/joeyebach/workspace/ExtraVert/bin/Debug/net8.0/ExtraVert.deps.json
+/Users/joeyebach/workspace/ExtraVert/bin/Debug/net8.0/ExtraVert.runtimeconfig.json
+/Users/joeyebach/workspace/ExtraVert/bin/Debug/net8.0/ExtraVert.dll
+/Users/joeyebach/workspace/ExtraVert/bin/Debug/net8.0/ExtraVert.pdb
+/Users/joeyebach/workspace/ExtraVert/obj/Debug/net8.0/ExtraVert.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joeyebach/workspace/ExtraVert/obj/Debug/net8.0/ExtraVert.AssemblyInfoInputs.cache
+/Users/joeyebach/workspace/ExtraVert/obj/Debug/net8.0/ExtraVert.AssemblyInfo.cs
+/Users/joeyebach/workspace/ExtraVert/obj/Debug/net8.0/ExtraVert.csproj.CoreCompileInputs.cache
+/Users/joeyebach/workspace/ExtraVert/obj/Debug/net8.0/ExtraVert.dll
+/Users/joeyebach/workspace/ExtraVert/obj/Debug/net8.0/refint/ExtraVert.dll
+/Users/joeyebach/workspace/ExtraVert/obj/Debug/net8.0/ExtraVert.pdb
+/Users/joeyebach/workspace/ExtraVert/obj/Debug/net8.0/ExtraVert.genruntimeconfig.cache
+/Users/joeyebach/workspace/ExtraVert/obj/Debug/net8.0/ref/ExtraVert.dll
